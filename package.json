@@ -1,0 +1,19 @@
+{
+  "name": "first-react-redux-app",
+  "version": "1.0.0",
+  "description": "Following the tutorial at the following link - https://redux.js.org/basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcalistj/FirstBasicReduxApp.git"
+  },
+  "author": "mcalistj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcalistj/FirstBasicReduxApp/issues"
+  },
+  "homepage": "https://github.com/mcalistj/FirstBasicReduxApp#readme"
+}
